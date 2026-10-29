@@ -1,0 +1,17 @@
+{
+  "repository": "YongzhengLiu/huawei",
+  "release_tag": "hebei-temporal-batch-20261029",
+  "code": {
+    "name": "hebei-temporal-batch-code-v2.zip",
+    "bytes": 171100,
+    "SHA256": "2762a4ce26be76a3c0afa44f3dc5c92dcfd7e3f3150a10ee715a36733d4beff4"
+  },
+  "payload": {
+    "name": "hebei-temporal-batch-data-models-v1.tar.gz",
+    "bytes": 1197823484,
+    "SHA256": "f316242907b3b8c678ad89d673e1194223fe9cc8b5b2582aa61e497770f258f7"
+  },
+  "full_payload_uncompressed_bytes": 1499270186,
+  "payload_regular_members": 2071,
+  "expected_seed42_KPIE": 97.70614386020668
+}
